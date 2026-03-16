@@ -15,8 +15,6 @@ I enjoy building backend systems, automation platforms and small SaaS tools.
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lypzis&show_icons=true&hide_title=true)
-![Profile Views](https://komarev.com/ghpvc/?username=Lypzis&color=blue)
 
 ---
 
