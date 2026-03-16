@@ -23,4 +23,4 @@ I enjoy building backend systems, automation platforms and SaaS tools.
 - Microservices architecture  
 - Event-driven systems  
 - Backend automation platforms  
-- Small SaaS products
+- SaaS products
