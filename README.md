@@ -2,7 +2,7 @@
 
 **Java Backend Developer**
 
-I enjoy building backend systems, automation platforms and small SaaS tools.
+I enjoy building backend systems, automation platforms and SaaS tools.
 
 ---
 
