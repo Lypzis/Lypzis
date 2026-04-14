@@ -1,8 +1,19 @@
 # Hi, I'm Victor Piccoli 👋
 
-**Java Backend Developer**
+**Java Backend Developer | Spring Boot • Microservices • REST APIs • Redis • RabbitMQ • Docker • AWS**
 
-I enjoy building backend systems, automation platforms and SaaS tools.
+I build scalable backend systems and real-world products, focusing on performance, reliability, and clean architecture.
+
+---
+
+## 🚀 What I Do
+
+- Design and develop **Java Spring Boot microservices**
+- Build and scale **REST APIs** for integrations and high-throughput systems
+- Implement **event-driven architectures** using RabbitMQ
+- Optimize performance with **Redis caching and async processing**
+- Work with **Docker and AWS** for scalable deployments
+- Develop full-stack applications when needed using **Vue.js**
 
 ---
 
@@ -18,9 +29,9 @@ I enjoy building backend systems, automation platforms and SaaS tools.
 
 ---
 
-## 🧠 Interests
+## 🧠 Focus Areas
 
 - Microservices architecture  
 - Event-driven systems  
 - Backend automation platforms  
-- SaaS products
+- Scalable SaaS products
