@@ -1,6 +1,6 @@
 # Hi, I'm Victor V. Piccoli (Lypzis) 👋
 
-**Java Backend Developer | Spring Boot • Microservices • REST APIs • Redis • RabbitMQ • Docker • AWS**
+**Java Engineer | Spring Boot • Microservices • REST APIs • Redis • RabbitMQ • Docker • AWS • Vue.js**
 
 I build scalable backend systems and real-world products, focusing on performance, reliability, and clean architecture.
 
