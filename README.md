@@ -1,37 +1,80 @@
 # Hi, I'm Victor V. Piccoli (Lypzis) 👋
 
-**Java Engineer | Spring Boot • Microservices • REST APIs • Redis • RabbitMQ • Docker • AWS • Vue.js**
+**Software Developer | Product Builder | AI-Assisted Development**
 
-I build scalable backend systems and real-world products, focusing on performance, reliability, and clean architecture.
+I build software products, web applications, and enterprise integrations, combining full-stack development with AI-assisted workflows to accelerate delivery, improve implementation quality, and validate ideas quickly.
 
----
-
-## 🚀 What I Do
-
-- Design and develop **Java Spring Boot microservices**
-- Build and scale **REST APIs** for integrations and high-throughput systems
-- Implement **event-driven architectures** using RabbitMQ
-- Optimize performance with **Redis caching and async processing**
-- Work with **Docker and AWS** for scalable deployments
-- Develop full-stack applications when needed using **Vue.js**
+My background includes 6+ years of professional experience across frontend, backend, and full-stack development, along with independent product development and experimentation with modern AI tooling.
 
 ---
 
-## ⚙️ Tech Stack
+## 🚀 Featured Projects
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-D82C20?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+### BreedZ
+
+Offline-first livestock management platform focused on animal tracking, lineage management, reproduction workflows, and mobile usability.
+
+### Leadz
+
+Java 21 / Spring Boot backend for lead automation, asynchronous processing, webhooks, Redis, RabbitMQ, and workflow orchestration.
+
+### UnemployedByAI
+
+Trend-driven web project exploring the impact of automation on work while validating product ideas, engagement mechanics, and rapid development workflows.
 
 ---
 
-## 🧠 Focus Areas
+## 🧠 AI-Assisted Development
 
-- Microservices architecture  
-- Event-driven systems  
-- Backend automation platforms  
-- Scalable SaaS products
+I use AI as a development accelerator rather than a replacement for engineering judgment.
+
+My workflow includes:
+
+* Prompt Engineering
+* Context Engineering
+* Requirements Analysis
+* Code Generation & Review
+* Documentation Generation
+* Debugging Assistance
+* Architectural Planning
+* Rapid Prototyping
+
+I regularly structure AI context packages using business rules, architectural constraints, acceptance criteria, and repository-specific patterns to improve implementation consistency and reduce rework.
+
+---
+
+## ⚙️ Technologies
+
+### Backend
+
+Java • Spring Boot • REST APIs • JPA/Hibernate • Microservices • RabbitMQ • Redis
+
+### Frontend
+
+Vue.js • Quasar • React • JavaScript • HTML • CSS
+
+### Infrastructure
+
+Docker • GitHub Actions • AWS • Linux
+
+### Databases
+
+PostgreSQL • MySQL • SQL • NoSQL
+
+---
+
+## 🎯 Focus Areas
+
+* Product Development
+* AI-Assisted Software Engineering
+* Full Stack Applications
+* Backend Architecture
+* Enterprise Integrations
+* SaaS Platforms
+* Process Automation
+
+---
+
+## 📫 Connect With Me
+
+* LinkedIn: linkedin.com/in/victor-v-piccoli-2490381a6
